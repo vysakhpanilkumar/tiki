@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1702357218,,"wq"
+|2,0,1702357438,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,56 @@
 # Registers:
 
 # File marks:
-'0  1  9  ~/file1
-|4,48,1,9,1702357218,"~/file1"
-'1  1  3  ~/gitrepo/file10
-|4,49,1,3,1702356684,"~/gitrepo/file10"
-'2  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,50,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
-'3  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
-|4,51,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
-'4  1  9  ~/gitrepo/file4
-|4,52,1,9,1702355909,"~/gitrepo/file4"
-'5  1  9  ~/gitrepo/file3
-|4,53,1,9,1702355825,"~/gitrepo/file3"
-'6  1  9  ~/gitrepo/file2
-|4,54,1,9,1702355708,"~/gitrepo/file2"
-'7  1  12  ~/gitrepo/file1
-|4,55,1,12,1702355385,"~/gitrepo/file1"
+'0  3  3  ~/file1
+|4,48,3,3,1702357438,"~/file1"
+'1  2  3  ~/file1
+|4,49,2,3,1702357389,"~/file1"
+'2  2  3  ~/file1
+|4,50,2,3,1702357389,"~/file1"
+'3  1  9  ~/file1
+|4,51,1,9,1702357218,"~/file1"
+'4  1  9  ~/file1
+|4,52,1,9,1702357218,"~/file1"
+'5  1  9  ~/file1
+|4,53,1,9,1702357218,"~/file1"
+'6  1  9  ~/file1
+|4,54,1,9,1702357218,"~/file1"
+'7  1  3  ~/gitrepo/file10
+|4,55,1,3,1702356684,"~/gitrepo/file10"
+'8  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,56,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+'9  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,57,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  3  3  ~/file1
+|4,39,3,3,1702357438,"~/file1"
+-'  2  3  ~/file1
+|4,39,2,3,1702357431,"~/file1"
+-'  2  3  ~/file1
+|4,39,2,3,1702357389,"~/file1"
+-'  1  9  ~/file1
+|4,39,1,9,1702357382,"~/file1"
+-'  1  9  ~/file1
+|4,39,1,9,1702357382,"~/file1"
 -'  1  9  ~/file1
 |4,39,1,9,1702357218,"~/file1"
 -'  1  3  ~/gitrepo/file10
 |4,39,1,3,1702356684,"~/gitrepo/file10"
 -'  1  3  ~/gitrepo/file10
 |4,39,1,3,1702356684,"~/gitrepo/file10"
+-'  1  3  ~/gitrepo/file10
+|4,39,1,3,1702356684,"~/gitrepo/file10"
+-'  1  3  ~/gitrepo/file10
+|4,39,1,3,1702356684,"~/gitrepo/file10"
+-'  1  3  ~/gitrepo/file10
+|4,39,1,3,1702356684,"~/gitrepo/file10"
+-'  1  3  ~/gitrepo/file10
+|4,39,1,3,1702356684,"~/gitrepo/file10"
+-'  1  3  ~/gitrepo/file10
+|4,39,1,3,1702356684,"~/gitrepo/file10"
+-'  1  3  ~/gitrepo/file10
+|4,39,1,3,1702356684,"~/gitrepo/file10"
 -'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
 |4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
@@ -57,6 +83,54 @@
 |4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
 |4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  17  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,17,1702356028,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
 |4,39,13,13,1702355973,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  13  13  ~/gitrepo/.git/COMMIT_EDITMSG
@@ -81,6 +155,54 @@
 |4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
 |4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
+-'  1  0  ~/gitrepo/.git/COMMIT_EDITMSG
+|4,39,1,0,1702355956,"~/gitrepo/.git/COMMIT_EDITMSG"
 -'  1  9  ~/gitrepo/file4
 |4,39,1,9,1702355909,"~/gitrepo/file4"
 -'  1  9  ~/gitrepo/file4
@@ -113,145 +235,29 @@
 |4,39,1,9,1702355909,"~/gitrepo/file4"
 -'  1  9  ~/gitrepo/file4
 |4,39,1,9,1702355909,"~/gitrepo/file4"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file3
-|4,39,1,9,1702355825,"~/gitrepo/file3"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
--'  1  9  ~/gitrepo/file2
-|4,39,1,9,1702355708,"~/gitrepo/file2"
+-'  1  9  ~/gitrepo/file4
+|4,39,1,9,1702355909,"~/gitrepo/file4"
+-'  1  9  ~/gitrepo/file4
+|4,39,1,9,1702355909,"~/gitrepo/file4"
+-'  1  9  ~/gitrepo/file4
+|4,39,1,9,1702355909,"~/gitrepo/file4"
+-'  1  9  ~/gitrepo/file4
+|4,39,1,9,1702355909,"~/gitrepo/file4"
+-'  1  9  ~/gitrepo/file4
+|4,39,1,9,1702355909,"~/gitrepo/file4"
+-'  1  9  ~/gitrepo/file4
+|4,39,1,9,1702355909,"~/gitrepo/file4"
 
 # History of marks within files (newest to oldest):
 
 > ~/file1
-	*	1702357216	0
-	"	1	9
-	^	1	10
-	.	1	9
-	+	1	9
+	*	1702357436	0
+	"	3	3
+	^	3	4
+	.	3	3
+	+	1	10
+	+	2	4
+	+	3	3
 
 > ~/gitrepo/file10
 	*	1702356679	0
